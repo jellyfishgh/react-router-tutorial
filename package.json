@@ -1,0 +1,25 @@
+{
+  "name": "react-router-tutorial",
+  "version": "1.0.0",
+  "description": "react-router tutorial",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellyfishgh/react-router-tutorial.git"
+  },
+  "keywords": [
+    "react-router"
+  ],
+  "author": "jellyfishgh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jellyfishgh/react-router-tutorial/issues"
+  },
+  "homepage": "https://github.com/jellyfishgh/react-router-tutorial#readme",
+  "devDependencies": {
+    "eslint": "^3.8.1",
+    "eslint-plugin-react": "^6.4.1"
+  }
+}
